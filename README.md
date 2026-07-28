@@ -119,3 +119,15 @@ To scale this proof-of-concept into a production-ready medical device, the follo
 3. Install the required dependencies (`Adafruit GFX`, `Adafruit SSD1306`, `HX711_ADC`) via the Arduino Library Manager.
 4. Adjust the calibration factor in `LoadCell.setCalFactor(-1850.26);` and the specific `weight` variable to match your physical hardware and pill type.
 5. Flash to the Arduino Nano and open the Serial Monitor at **9600 baud**.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! 
+If you have suggestions to improve this proof-of-concept, feel free to fork the repository and create a pull request. 
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push toNormally I can help with things like this, but I don't seem to have access to that content. You can try again or ask me for something else.
