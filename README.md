@@ -1,4 +1,4 @@
-<img width="1277" height="684" alt="IMG_3056" src="https://github.com/user-attachments/assets/cb60c65d-9375-410d-a35c-a4b2c38aec18" />
+
 
 
 <div align="center">
@@ -26,6 +26,7 @@
 ---
 
 </div>
+
 
 ## 📖 Overview
 
